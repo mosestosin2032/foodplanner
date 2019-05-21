@@ -1,0 +1,42 @@
+.card-title {
+    color: white;}
+    
+.toppic{
+filter: brightness(0.6);
+}    
+
+.toptext {
+
+    font-size: 4rem;
+    font-weight: 500;
+}
+.card-body{
+    background-color: rgb(43, 230, 43);}
+form { 
+    padding-left: 20px;
+    float: right;
+    margin-top: -150px;
+    border-radius: 5px;
+    width: 25rem;
+    background-color: rgb(10, 160, 10);
+    height:430px;
+    position: relative;
+    z-index: 1;
+}
+.form-control{
+    border-color: rgb(225, 235, 225);
+    background-color: rgb(10, 160, 10);
+}
+.btn-primary {
+    border-color: rgb(43, 58, 43);
+    background-color: rgb(5, 66, 5);
+    height:35px;
+}
+
+.sign1{
+    position: absolute;
+        
+        margin-top:-7px;
+        left: 100px;
+        top: -250px;
+}
